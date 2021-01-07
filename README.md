@@ -1,4 +1,4 @@
-# Finding-All-Possible-Non-Repeated-Digite-Numbers-
+# Finding All Possible Numbers without repetition of digits
 
 The software computes and determines all possible numbers of desired digits. This software employs mathematics to solve the request by inference. The context of the program contains two major sections. The first part describes the logic behind this code, and the other part explains the program steps.
 
