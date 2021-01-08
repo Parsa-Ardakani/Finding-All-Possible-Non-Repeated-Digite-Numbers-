@@ -4,7 +4,7 @@ The software computes and determines all possible numbers of desired digits. Thi
 
 **The First Section:**
 Math utilizes factorial to find the number of possibilities. The tree structure helps us to find probable numbers through reasoning. Examples provide a better understanding. 
-The digits 1, 2, 3 produce six possible three-digit answers. The solution is 3*2*1. Now, we can separate each part of the solution. The answer would be equal to 1 if we take only one digit and make a one-digit number. If we add another digit, the answer would be 2 (2*1). If we add the last digit, the answer would be 6 (3*2*1). The illustration below displays the process as a tree structure.
+The digits 1, 2, 3 produce six possible three-digit answers. The solution is 3×2×1. Now, we can separate each part of the solution. The answer would be equal to 1 if we take only one digit and make a one-digit number. If we add another digit, the answer would be 2 (2×1). If we add the last digit, the answer would be 6 (3×2×1). The illustration below displays the process as a tree structure.
 
 ![alt text](https://raw.githubusercontent.com/Parsa-Ardakani/Finding-All-Possible-Non-Repeated-Digite-Numbers-/main/Images/Tree%20Structure.png)
 
